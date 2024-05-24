@@ -2,7 +2,7 @@
 
 
 ## Screenshot
-![App Screenshot](https://raw.githubusercontent.com/katzura1/VirtusBot/main/demo.png)
+![App Screenshot](https://raw.githubusercontent.com/Zlkcyber/vertusbot/main/demo.png)
 
 
 
@@ -14,20 +14,20 @@
 | Auto Upgrade Farm, Storage and Population                      |     ✅     |
 | Support tdata / pyrogram .session / telethon .session          |     ✅     |
 
-## [Settings](https://github.com/katzura1/VirtusBot/blob/main/.env.example)
+## [Settings](https://github.com/Zlkcyber/vertusbot/blob/main/.env.example)
 | Настройка                | Описание                                                                                 |
 |--------------------------|------------------------------------------------------------------------------------------|
 | **API_ID / API_HASH**    | Platform data from which to launch a Telegram session _(stock - Android)_                |
 | **USE_PROXY_FROM_FILE**  | Whether to use proxy from the `bot/config/proxies.txt` file (True / False)               |
 
 ## Installation
-You can download [**Repository**](https://github.com/katzura1/VirtusBot) by cloning it to your system and installing the necessary dependencies:
+You can download [**Repository**](https://github.com/Zlkcyber/vertusbot) by cloning it to your system and installing the necessary dependencies:
 ```shell
-~ >>> git clone https://github.com/katzura1/VertusBot.git
+~ >>> git clone https://github.com/Zlkcyber/vertusbot.git
 ~ >>> cd VertusBot
 
 # If you are using Telethon sessions, then clone the "converter" branch
-~ >>> git clone https://github.com/katzura1/VertusBot.git -b converter
+~ >>> git clone https://github.com/Zlkcyber/vertusbot.git -b converter
 ~ >>> cd VertusBot
 
 #Linux
