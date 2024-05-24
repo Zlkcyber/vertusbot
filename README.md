@@ -24,11 +24,11 @@
 You can download [**Repository**](https://github.com/Zlkcyber/vertusbot) by cloning it to your system and installing the necessary dependencies:
 ```shell
 ~ >>> git clone https://github.com/Zlkcyber/vertusbot.git
-~ >>> cd VertusBot
+~ >>> cd vertusBot
 
 # If you are using Telethon sessions, then clone the "converter" branch
 ~ >>> git clone https://github.com/Zlkcyber/vertusbot.git -b converter
-~ >>> cd VertusBot
+~ >>> cd vertusBot
 
 #Linux
 ~/VertusBot >>> python3 -m venv venv
